@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# LICEO NAVAL PROMO XX
 
-You can use the [editor on GitHub](https://github.com/digitalebrain/liceonavalxx/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Status
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-coming-soon/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-coming-soon.svg)](https://www.npmjs.com/package/startbootstrap-coming-soon)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-coming-soon.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-coming-soon)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon?type=dev)
 
-### Markdown
+## Bugs and Issues
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-coming-soon/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/coming-soon/).
 
-```markdown
-Syntax highlighted code block
+## Custom Builds
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## About
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Copyright and License
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digitalebrain/liceonavalxx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Copyright 2013-2018 Digitalebrain LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-coming-soon/blob/gh-pages/LICENSE) license.
