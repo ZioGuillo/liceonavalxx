@@ -1,17 +1,17 @@
 <?php
-	
+
 	$errors = array();
 
 	// Check if name has been entered
 	if (!isset($_POST['name'])) {
 		$errors['name'] = 'Please enter your name';
 	}
-	
+
 	// Check if email has been entered and is valid
 	if (!isset($_POST['email']) || !filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
 		$errors['email'] = 'Please enter a valid email address';
 	}
-	
+
 	//Check if message has been entered
 	if (!isset($_POST['massage'])) {
 		$errors['message'] = 'Please enter your message';
@@ -43,9 +43,9 @@
 	$email = $_POST['email'];
 	$message = $_POST['massage'];
 	$from = $email;
-	$to = 'info@themewagon.com';  // please change this email id
-	$subject = 'Contact Form : Photography - Best Responsive Multi-purpose Website Template';
-	
+	$to = 'pcisnerp@gmail.com';  // please change this email id
+	$subject = 'Contact Form : Liceo Naval -  Website';
+
 	$body = "From: $name\n E-Mail: $email\n Message:\n $message";
 
 
@@ -68,4 +68,4 @@
 	$result .= '</div>';
 
 	echo $result;
-	
+
